@@ -1,1 +1,1 @@
-Command tool to fixes lines longer than 80 chars in your directory
+Command tool to fix lines longer than 80 chars in your directory
